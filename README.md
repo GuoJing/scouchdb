@@ -1,0 +1,4 @@
+scouchdb
+========
+
+Simple couchdb client.
